@@ -11,9 +11,9 @@
 .navbar .navbar-header .navbar-brand {
   float: left;
   min-height: 30px;
-  color: #E5BD3C;
+  color: #EBC614;
   padding: 15px 50px 0px;
-  font-size: 2em;
+  font-size: 3em;
 }
 
 .navbar-inverse .navbar-nav .active a, .navbar-inverse .navbar-nav .active a:focus, .navbar-inverse .navbar-nav .active a:hover {
@@ -23,4 +23,23 @@
 
 .navbar-inverse .navbar-nav li a {
   color: #d5d5d5;
+}
+
+.container {
+  margin: 4% auto;
+}
+
+#picture {
+  max-width: 300px;
+  margin: 1% auto;
+}
+
+h2 {
+  color: #9370DB;
+  font-size: 40px;
+  margin-bottom: 2%;
+}
+
+.col-sm-4 h4 {
+  color: #9370DB;
 }
